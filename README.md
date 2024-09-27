@@ -19,7 +19,7 @@ The dataset used in this analysis is from Kaggle. It contains 285 rows and 8 col
 - **Station ID**: Unique identifier for each station.
 - **Station Name**: Name of the metro station.
 - **Distance from Start (km)**: Distance of the station from the starting point of the metro line.
-- **Line**: The metro line (e.g., Red line, Blue line) to which the station belongs.
+- **Line**: The metro line (e.g., Red line, Blue line, Yellow line) to which the station belongs.
 - **Opening Date**: The date when the station became operational.
 - **Station Layout**: Indicates whether the station is elevated or underground.
 - **Latitude and Longitude**: Geographical coordinates of the station.
