@@ -60,6 +60,10 @@ This project contributes towards:
 - **Transportation Networks**: The analysis serves as a case study for transportation network analysis, providing a framework for analyzing other metro systems around the world.
 - **Commuter Insights**: The analysis of station locations and network expansion over time can provide valuable information to commuters regarding the evolution of metro connectivity.
 
+## Contributor
+
+This repository is maintained by [Nitin Yadav](https://github.com/NitinYadav1511).
+
 ## Conclusion
 
 The analysis sheds light on the structure, expansion, and impact of the Delhi Metro network over the last decade. It provides actionable insights for urban planners, policymakers, and transportation researchers aiming to understand and improve mass transit systems.
